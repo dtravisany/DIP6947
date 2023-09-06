@@ -3,5 +3,5 @@
 Diplomado en Bioinformática - Introducción a la Bioinformática
 Prácticos:
 
-1. [Introducción a la Terminal](intro_terminal/README.md)
+1. [Introducción a la Terminal](PracticoLinux/README.md)
 
