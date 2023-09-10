@@ -55,7 +55,7 @@ Si están en:
 
 ### Protocolo SSH
 
-Ahora, en la terminal, utilizaremos el protocolo [SSH]([https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-rg-es-4/ch-ssh.html](https://es.wikipedia.org/wiki/Secure_Shell)).
+Ahora, en la terminal, utilizaremos el protocolo [SSH](https://es.wikipedia.org/wiki/Secure_Shell).
 
 > :warning:  **NOTA**: De ahora en adelante, cada vez que vea `instrucción` se referira a un comando/programa a ejecutar, mientras que:
 
